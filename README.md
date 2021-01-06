@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=machi12&show_icons=true">
 
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 大四学生一枚
 - 🌱 正在学习深度学习

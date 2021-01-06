@@ -6,6 +6,6 @@
 - 😄 梦想进阿里的程序员
 - ⚡ 不断努力，永不止步
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=machi12&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true">
 
 
